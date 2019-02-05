@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">android-login-example</string>
+
+    <!-- General labels -->
+    <string name="label_aceptar">Aceptar</string>
+
+    <!-- Pantalla "iniciar sesión" -->
+    <string name="label_username">Username</string>
+    <string name="label_password">Password</string>
+    <string name="label_iniciar_sesion">Iniciar sesión</string>
+    <string name="label_login_hint">Introduzca las siguientes credenciales para continuar</string>
+
+    <!-- Pantalla "main activity" -->
+    <string name="label_welcome">Bienvenido!</string>
+    <string name="label_success">Acceso correcto</string>
+
 </resources>
